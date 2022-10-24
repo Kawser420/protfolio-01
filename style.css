@@ -1,5 +1,7 @@
+/* css style */
 body{
     margin: 0 auto;
+    background-color: whitesmoke;
 }
 header{
     padding-top: 100px;
@@ -137,3 +139,22 @@ section{
 .product img{
     width: 60%;
 }
+
+/* footer  */
+footer{
+    height: 200px;
+    background-color: black;
+}
+footer p{
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+#foot{
+    color: white;
+    text-align: center;
+    padding-top: 35px;
+    font-family: serif;
+}
+/* code end and thank you */
