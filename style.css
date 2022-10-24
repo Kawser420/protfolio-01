@@ -2,8 +2,8 @@ body{
     margin: 0 auto;
 }
 header{
-    padding-top: 120px;
-    height: 500px;
+    padding-top: 100px;
+    height: 400px;
 }
 .half-width{
     width: 40%;
@@ -12,7 +12,7 @@ header{
     margin-left: 5%;
 }
 .half-width img{
-    width: 100%;
+    width: 90%;
 }
 span{
     color: #9400D3;
@@ -20,6 +20,9 @@ span{
 h1{
     font-size: 50px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p{
+    font-weight: 16px;
 }
 #slide{
     border-left: 5px solid;
@@ -52,8 +55,8 @@ small{
 #title{
     text-align: center;
     font-size: 40px;
-    padding-top: 80px;
-    padding-bottom: 60px;
+    padding-top: 40px;
+    padding-bottom: 30px;
 }
 .mid-container{
     width: 100%;
@@ -94,4 +97,14 @@ small{
 
 .icon{
     width: 30%;
+}
+section{
+    padding-top: 50px;  
+    padding-bottom: 350px;    
+}
+.third-develop{
+    background-image: url(images/pictures/dream-bg.png);
+    background-repeat: no-repeat;
+    padding-bottom: 30%;
+    background-position: left bottom;
 }
