@@ -58,9 +58,6 @@ small{
     padding-top: 40px;
     padding-bottom: 30px;
 }
-.mid-container{
-    width: 100%;
-}
 .box-info-1{
     width: 25%;
     float: left;
@@ -107,4 +104,13 @@ section{
     background-repeat: no-repeat;
     padding-bottom: 30%;
     background-position: left bottom;
+}
+.fore-dev{
+    padding-top: 150px;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-bottom: 78%;
+    background-size: 16%;
+
 }
