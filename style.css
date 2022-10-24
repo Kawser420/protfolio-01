@@ -109,8 +109,31 @@ section{
     padding-top: 150px;
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
-    background-position: right;
-    padding-bottom: 78%;
+    background-position: right bottom;
+    padding-bottom: 35%;
     background-size: 16%;
 
+}
+.extra-work{
+    width: 90%;
+    margin-left: 5%;
+    padding-left: 2%;
+    height: 400px;
+}
+.product{
+    display: inline;
+    width: 20%;
+    float: left;
+    margin-left: 2%;
+    box-shadow: 5px 5px 20px gray;
+    border-radius: 10px;
+    padding: 1%;
+    height: 50%;
+}
+.product:hover{
+    background-color: #9400D3;
+    height: 60%;
+}
+.product img{
+    width: 60%;
 }
